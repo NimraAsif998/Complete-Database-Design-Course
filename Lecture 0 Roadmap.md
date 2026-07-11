@@ -20,7 +20,7 @@ schema design, and industry best practices. You'll also work through real-world 
 * Database Normalization (1NF, 2NF, 3NF, BCNF)
 * Functional Dependencies
 * Data Integrity & Constraints
-* SQL
+* SQL or use data.world
 * Schema Design Best Practices
 * Real-World Database Design Projects
 * Common Database Design Mistakes and How to Avoid Them
